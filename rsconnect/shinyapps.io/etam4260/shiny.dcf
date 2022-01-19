@@ -1,0 +1,13 @@
+name: shiny
+title:
+username:
+account: etam4260
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5020946
+bundleId: 5438547
+url: https://etam4260.shinyapps.io/shiny/
+when: 1641425980.71126
+lastSyncTime: 1641425980.71126
+asMultiple: FALSE
+asStatic: FALSE
